@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zxrys
-- 👀 I’m interested in acm
-- 🌱 I’m currently learning PX4 on AriSim and artificial inteligence
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI especially in LLM assists coding and debugging
+- 🌱 I’m currently GOLang backend development and prompt engineering
 - 📫 How to reach me ...
 
 <!---
