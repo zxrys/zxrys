@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zxrys
-- 👀 I’m interested in AI especially in LLM assists coding and debugging and MLLM
-- 🌱 I’m currently working on GOLang backend development and AI engineering
+- 👀 I’m interested in AI, especially in MAS and MLLM
+- 🌱 I’m currently working on MAS development
 - 📫 springrainyszxr@gmail.com
 
 <!---
